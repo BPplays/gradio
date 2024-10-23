@@ -1,5 +1,11 @@
 # @gradio/upload
 
+## 0.13.5
+
+### Dependency updates
+
+- @gradio/atoms@0.10.1
+
 ## 0.13.4
 
 ### Fixes

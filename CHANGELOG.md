@@ -1,5 +1,19 @@
 # gradio
 
+## 5.3.1
+
+### Features
+
+- [#9792](https://github.com/gradio-app/gradio/pull/9792) [`d2b56a4`](https://github.com/gradio-app/gradio/commit/d2b56a4c0457c1d5f30a9bbef2572049e47de312) - more fix.  Thanks @pngwn!
+
+### Fixes
+
+- [#9769](https://github.com/gradio-app/gradio/pull/9769) [`3b9ed29`](https://github.com/gradio-app/gradio/commit/3b9ed299e9ffd7df834299cfcd547be0e844e1bb) - Fix avatar image placement in Chatbot.  Thanks @hannahblair!
+- [#9757](https://github.com/gradio-app/gradio/pull/9757) [`f971ca6`](https://github.com/gradio-app/gradio/commit/f971ca6ab53100693152bb3f975fa753a6e29e3b) - added audioop-lts module to support pydub for python3.13+.  Thanks @samy-FERGUI!
+- [#9651](https://github.com/gradio-app/gradio/pull/9651) [`1163a37`](https://github.com/gradio-app/gradio/commit/1163a372a61cf84d110160c1711892b9b689d1d3) - Fixes component info font size.  Thanks @dawoodkhan82!
+- [#9806](https://github.com/gradio-app/gradio/pull/9806) [`b538bda`](https://github.com/gradio-app/gradio/commit/b538bdaa067a01a1ac404356062086c9dc7001b5) - update docstring for the the "variant" parameter in `gr.Button`.  Thanks @fadingNA!
+- [#9783](https://github.com/gradio-app/gradio/pull/9783) [`caf3650`](https://github.com/gradio-app/gradio/commit/caf3650482970cf649ec17d1a2d7d43651b37a04) - Exclude python-multipart 0.0.13.  Thanks @whitphx!
+
 ## 5.3.0
 
 ### Features
